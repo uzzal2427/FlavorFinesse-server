@@ -4,7 +4,7 @@
         "unique_id": 101,
         "chef_details": "Chef Alice is renowned for her culinary expertise in creating delightful seafood dishes. With a passion for crafting mouthwatering meals, she's mastered the art of grilling salmon to perfection and is celebrated for her creamy mushroom risotto. Her decadent chocolate lava cake is a must-try dessert. Chef Alice's recipes are known for their harmonious flavor combinations, making her a favorite among seafood lovers and dessert enthusiasts alike.",
         "name": "Chef Alice",
-        "image" : "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+        "image" : "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?w=740&t=st=1696012338~exp=1696012938~hmac=ac722ceb047517b6b46ea91b5a7a60c8b331f2ebc62ac0240bd8071cd38754ed",
         "recipes": [
             {
                 "food_image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80",
@@ -30,7 +30,7 @@
         "unique_id": 202,
         "chef_details": "Chef Alice is renowned for her culinary expertise in creating delightful seafood dishes. With a passion for crafting mouthwatering meals, she's mastered the art of grilling salmon to perfection and is celebrated for her creamy mushroom risotto. Her decadent chocolate lava cake is a must-try dessert. Chef Alice's recipes are known for their harmonious flavor combinations, making her a favorite among seafood lovers and dessert enthusiasts alike.",
         "name": "Chef David",
-        "image" : "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+        "image" : "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=740&t=st=1696012371~exp=1696012971~hmac=94a87819ef9501622a1cd4cc046a0d78d6a2e84229ef8e3a0778d6116f34fee9",
         "recipes": [
             {
                 "food_image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80",
@@ -56,7 +56,7 @@
         "unique_id": 303,
         "name": "Chef Emily",
         "chef_details": "Chef Alice is renowned for her culinary expertise in creating delightful seafood dishes. With a passion for crafting mouthwatering meals, she's mastered the art of grilling salmon to perfection and is celebrated for her creamy mushroom risotto. Her decadent chocolate lava cake is a must-try dessert. Chef Alice's recipes are known for their harmonious flavor combinations, making her a favorite among seafood lovers and dessert enthusiasts alike.",
-        "image" : "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+        "image" : "https://img.freepik.com/free-photo/young-baker-holding-some-bread-thinking_1368-9856.jpg?w=740&t=st=1696012409~exp=1696013009~hmac=0576621e98b3f56e325f93843274daba80076dbe3d1563ad050ebd163ad8bedc",
         "recipes": [
             {
                 "food_image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80",
@@ -82,7 +82,7 @@
         "unique_id": 404,
         "name": "Chef Michael",
         "chef_details": "Chef Alice is renowned for her culinary expertise in creating delightful seafood dishes. With a passion for crafting mouthwatering meals, she's mastered the art of grilling salmon to perfection and is celebrated for her creamy mushroom risotto. Her decadent chocolate lava cake is a must-try dessert. Chef Alice's recipes are known for their harmonious flavor combinations, making her a favorite among seafood lovers and dessert enthusiasts alike.",
-        "image" : "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+        "image" : "https://img.freepik.com/free-psd/proud-chef-gesturing-with-hands_1154-362.jpg?w=740&t=st=1696012444~exp=1696013044~hmac=2e116788652fa5cdda470b275ee0ae5a6768f5064278a81e2a08540986f4a02d",
         "recipes": [
             {
                 "food_image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80",
@@ -108,7 +108,7 @@
         "unique_id": 505,
         "name": "Chef Sarah",
         "chef_details": "Chef Alice is renowned for her culinary expertise in creating delightful seafood dishes. With a passion for crafting mouthwatering meals, she's mastered the art of grilling salmon to perfection and is celebrated for her creamy mushroom risotto. Her decadent chocolate lava cake is a must-try dessert. Chef Alice's recipes are known for their harmonious flavor combinations, making her a favorite among seafood lovers and dessert enthusiasts alike.",
-        "image" : "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+        "image" : "https://img.freepik.com/premium-psd/smiling-cheerfully-feeling-happy-showing-concept_1194-477349.jpg?w=740",
         "recipes": [
             {
                 "food_image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80",
